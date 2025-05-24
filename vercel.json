@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "mistral-chat-pwa-vercel",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
